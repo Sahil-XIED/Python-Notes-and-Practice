@@ -1,7 +1,27 @@
 <!-- Animated Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16324F,100:3776AB&height=220&section=header&text=Python%20Notes%20%26%20Practice&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Learn%20%E2%80%A2%20Code%20%E2%80%A2%20Practice%20%E2%80%A2%20Grow&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Animated Python repository banner"/>
+<div align="center">
+
+# 🐍 Python Notes & Practice
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=3776AB&center=true&vCenter=true&width=600&lines=Learn+Python+Step+by+Step;Practice+Every+Day;Build+Your+Programming+Skills" alt="Python learning animation"/>
+
+**Learn. Code. Practice. Grow.**
+
+A chapter-wise collection of Python notes, examples, and practice programs.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-2EA44F?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Hosted_on-GitHub-181717?style=for-the-badge&logo=github)
+
+[Explore Chapters](#-repository-structure) • [Getting Started](#-getting-started) • [Learning Roadmap](#-learning-roadmap)
+
+</div>
+
+---
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=3776AB&center=true&vCenter=true&width=650&lines=Your+Journey+into+Python+Programming;Learn+the+Basics%2C+Master+the+Logic;Practice+Every+Day%2C+Improve+Every+Day;One+Program+at+a+Time+%F0%9F%90%8D" alt="Animated typing introduction"/>
 
